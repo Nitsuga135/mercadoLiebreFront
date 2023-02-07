@@ -1,0 +1,94 @@
+.logo{
+    width: 50%;
+    height: 20vh;
+    
+}
+.container-header{
+    background-color: #EAC926;
+    
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+    
+}.banner{
+    margin-top: 230px;
+    margin-bottom: -10px;
+    
+}
+.ocultar-article{
+    width: 100%;
+    text-align: left;
+}
+/*container logo bar*/
+.container-logobar{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.container-barraBusqueda{
+    width: 50%;
+    
+}
+
+/*Icono Buscar*/
+.buscar{
+    background-color: #ebebeb;
+    width: 24px;
+    height: 24px;
+   
+    border-radius: 6px;
+}.barra-busqueda{
+    width: 80%;
+    border-radius: 5px;
+}
+.fa-magnifying-glass{
+    color: black;
+   
+}
+/*MENSAJE INICIAL*/
+.mensaje-inicial{
+    margin: 20px;
+}
+
+
+/*BURGER*/
+.menu-burger{
+     background-color: #1259c3;
+     width: 30px;
+     height: 30px;
+     border-radius: 7.5px;
+     margin: 20px;
+     
+}
+.fa-bars{
+   color: #ebebeb;
+   font-size: 24px;
+}
+
+
+/*Banner*/
+.banner{
+    
+    width: 100%;
+    height: 100px;
+   
+}
+
+/*GLOBALES*/
+
+.ocultar2{
+    display: none;
+}
+
+/*centrar*/
+.centrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.texto{
+    font-size: 12px;
+}

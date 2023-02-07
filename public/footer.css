@@ -1,0 +1,30 @@
+
+/*GLOBALES*/
+.icon{
+    font-size: 2em;
+    
+    margin:30px 0 10px 0;
+    color: #1259c3;
+}
+footer{
+    margin-top: 10px;
+    
+}
+/*TEXTOS*/
+.titularF{
+    font-size: 24px;
+}
+.parrafo{
+    font-size: 12;
+}
+
+/*CONTAINER DE DIVS EN EL FOOTER*/
+.container-footer{
+    
+    text-align: center;
+    
+}
+
+.copyright{
+    margin: 10px;
+}
